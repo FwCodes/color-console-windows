@@ -6,7 +6,7 @@ A lightweight header-only C++ library to bring colors to your Windows console wi
 
 ## Contents
 
-- [Installation](#instllation)
+- [Installation](#installation)
 - [Getting Started](#getting-started)
 - [Why Use It?](#why-use-it)
 - [A Real Example](#a-real-example)
