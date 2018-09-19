@@ -269,4 +269,4 @@ Know the color tags and `dye` your console (or change its `hue`) immediately!
 - users shouldn't worry about the types of the dyed objects. If they want to, there are two layers of template classes:  a `dye::item<T>` to hold a single object, and a container `dye::colorful<item<T>>` to hold `item`(s). `item` is intermediate and kept internally. Users are always using `colorful`, of one or many `item`(s).
 - a compile-time type-conversion technique (called `bar<T>`) is employed so that even function template argument deduction concludes it sees a `const char *` the dyed object generated would be based on `std::string`.
 
-[Back to Top](#color-console)
+[Back to Top](/)
