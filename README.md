@@ -20,7 +20,7 @@ A lightweight header-only C++ library to bring colors to your Windows console wi
 
 Put [`color.hpp`](/include/color.hpp) in the folder where you include headers.
 
-Download the [header](https://github.com/aafulei/color-console/raw/master/include/color.hpp) now.
+Download the [header](https://aafulei.github.io/projects/color-console/color.hpp) now.
 
 *For Windows. C++11 support required. C++14 or above recommended.*
 
