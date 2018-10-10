@@ -179,7 +179,7 @@ Know the color tags and `dye` your console (or change its `hue`) immediately!
 
   - **Single / Text**
     - ***Basic***    `black` `blue` `green` `aqua` `red` `purple` `yellow` `white` `gray`
-    - ***Light***    `light_blue` `light_green` `light_aqua` `light_red` `light_purple` `light_yellow`
+    - ***Light***    `light_[basic]` (*not applicable for* `black` `gray` and `white`) *e.g.* `light_blue` `light_green`
     - ***Bright***    `bright_white`
 
   - **Background**
