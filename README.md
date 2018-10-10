@@ -178,7 +178,7 @@ Know the color tags and `dye` your console (or change its `hue`) immediately!
 ### **Color Tags**
 
   - **Single / Text**
-    - ***Basic***    `black` `blue` `green` `aqua` `red` `purple` `yellow` `white` `grey`
+    - ***Basic***    `black` `blue` `green` `aqua` `red` `purple` `yellow` `white` `gray`
     - ***Light***    `light_blue` `light_green` `light_aqua` `light_red` `light_purple` `light_yellow`
     - ***Bright***    `bright_white`
 
