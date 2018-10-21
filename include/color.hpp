@@ -15,7 +15,7 @@ namespace hue
     constexpr int DEFAULT_COLOR = 7;
     constexpr int BAD_COLOR = -256;
 
-    static const std::map<std::string, int> CODES = {
+    const std::map<std::string, int> CODES = {
         {"black",            0}, {"k",   0},
         {"blue",             1}, {"b",   1},
         {"green",            2}, {"g",   2},
@@ -34,7 +34,7 @@ namespace hue
         {"bright white",    15}, {"bw", 15}
     };
 
-    static const std::map<int, std::string> NAMES = {
+    const std::map<int, std::string> NAMES = {
         { 0, "black"},
         { 1, "blue"},
         { 2, "green"},
